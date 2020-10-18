@@ -31,3 +31,9 @@
     text-shadow: 0 5px 10px  rgba(0, 0, 0, .5);
 
 }
+.box  p{
+    padding: 0  20px;
+    color: #ffffff;
+    text-align: center;
+
+}
